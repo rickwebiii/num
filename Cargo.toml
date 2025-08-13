@@ -21,15 +21,15 @@ features = ["std", "serde", "rand"]
 
 [dependencies.num-bigint]
 optional = true
-version = "0.4.7"
+version = "0.5.0"
 default-features = false
 
 [dependencies.num-complex]
-version = "0.4.6"
+version = "0.5.0"
 default-features = false
 
 [dependencies.num-integer]
-version = "0.1.46"
+version = "0.2.0"
 default-features = false
 features = ["i128"]
 
@@ -39,7 +39,7 @@ default-features = false
 features = ["i128"]
 
 [dependencies.num-rational]
-version = "0.4.3"
+version = "0.5.0"
 default-features = false
 
 [dependencies.num-traits]
